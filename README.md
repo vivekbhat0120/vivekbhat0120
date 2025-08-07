@@ -40,24 +40,34 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekbhat0120&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhat0120&theme=tokyo-night" alt="activity graph"/>
 </p>
 
 ---
 
-### 🔥 Contribution Snake (Auto Animation)
-
-> ⚠️ **To activate this animation**, you must follow these steps:
->
-> 1. Create `.github/workflows/snake.yml` in your `vivekbhat0120/vivekbhat0120` repo
-> 2. Add the snake GitHub Action (see below)
-> 3. Push and wait for the GitHub Action to generate the file
-
-#### ✅ Placeholder/Fallback Until Then:
+### 📊 GitHub Profile Summary Cards
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation fallback" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekbhat0120&theme=tokyonight" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekbhat0120&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekbhat0120&theme=tokyonight" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekbhat0120&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekbhat0120&theme=tokyonight&utcOffset=5" />
 </p>
+
+---
+
+
+### 🟡 Contribution Graph – Pac-Man Style
+
+<p align="center">
+  <img src="https://github.com/Platane/Platane/raw/output/github-contribution-grid-pacman.svg" alt="Pac-Man Contribution Grid" />
+</p>
+
+> 🕹️ A fun animated take on your GitHub contributions — Pac-Man eats your activity!
+
 
 ---
 
