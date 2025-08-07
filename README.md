@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web & Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+Developer;Loves+building+real-world+projects;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,17 +16,17 @@
 ### 🚀 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,nodejs,mongodb,postgres,git,github,vscode,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,react,vite,scss,nodejs,postgres,git,github,vscode,netlify" />
 </p>
 
 ---
 
 ### 🧠 Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS, Vite  
-- **Backend**: Node.js, Express.js, REST APIs  
+- **Frontend**: HTML, CSS, JavaScript,Bootstrap, React, Tailwind CSS, Vite  
+- **Backend**: Node.js, REST APIs  
 - **Databases**: MongoDB, PostgreSQL, Firebase  
-- **Tools**: Git, GitHub, VS Code, Postman, Netlify, Vercel  
+- **Tools**: Git, GitHub, VS Code, Netlify  
 - **Others**: Arduino, Raspberry Pi, IoT, PCB Design  
 - **Soft Skills**: Problem-solving, Client Communication, Teamwork  
 
