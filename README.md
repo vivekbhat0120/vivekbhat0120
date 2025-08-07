@@ -39,10 +39,6 @@
   <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhat0120&theme=tokyo-night" alt="activity graph"/>
-</p>
-
 ---
 
 ### 📊 GitHub Profile Summary Cards
@@ -59,32 +55,25 @@
 
 ---
 
-
-### 🟡 Contribution Graph 
-
-<p align="center"> <img src="https://raw.githubusercontent.com/vivekbhat0120/vivekbhat0120/main/github-metrics.svg" alt="Metrics" /> </p>
-
-
----
-
 ### 📍 Current Projects
 
-- 🔭 Building a fully responsive YouTube-based video app with authentication & filters  
-- 🌱 Exploring ERP system integration using IndiaMART API  
-- ⚡ Solar-powered smart agriculture system using Arduino + Raspberry Pi  
+- 📱 Building a fully responsive YouTube-based video app with authentication & filters
+- 🛍️ Working on fully functional Ecommerce website with ERP & CRM   
+- 📰 Building a E-paper daily news paper web page 
+- 🗃️ Responsive and Atractive Portfolio
 
 ---
 
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/vivek-bhat-427243233/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:vivekbhat0120@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/VivekBhat0120?t=YELAHTxIVzJaHbJ9HcfIjw&s=08" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" />
   </a>
 </p>
