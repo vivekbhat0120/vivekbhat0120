@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Bhat</h1>
-<h3 align="center">A Passionate Web & Electronics Developer from India</h3>
+<h3 align="center">A Passionate Web & Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Electronics+and+DIY+Enthusiast;Loves+building+real-world+projects;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+Developer;Loves+building+real-world+projects;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
