@@ -60,13 +60,9 @@
 ---
 
 
-### 🟡 Contribution Graph – Pac-Man Style
+### 🟡 Contribution Graph 
 
-<p align="center">
-  <img src="https://github.com/Platane/Platane/raw/output/github-contribution-grid-pacman.svg" alt="Pac-Man Contribution Grid" />
-</p>
-
-> 🕹️ A fun animated take on your GitHub contributions — Pac-Man eats your activity!
+<p align="center"> <img src="https://raw.githubusercontent.com/vivekbhat0120/vivekbhat0120/main/github-metrics.svg" alt="Metrics" /> </p>
 
 
 ---
