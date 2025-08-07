@@ -62,7 +62,7 @@
 <br/>
 📰 Building a E-paper daily news paper web page
 <br/>
-🗃️ Responsive and Atractive Portfolio </p>
+🗃️ Responsive and Attractive Portfolio </p>
 
 ---
 
@@ -86,7 +86,7 @@
 <p align="center">
 🧠 I believe hands-on learning > theoretical knowledge  
   <br/>
-🔧 I build websites *and* fix circuits  </p>
+🔧 I build websites and fix circuits  </p>
 
 ---
 
