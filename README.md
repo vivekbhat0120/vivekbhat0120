@@ -101,7 +101,7 @@
 <h2 align="center">📈 GitHub Streaks</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
