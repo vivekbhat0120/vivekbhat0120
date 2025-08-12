@@ -1,4 +1,8 @@
-<p> <img src="https://komarev.com/ghpvc/?username=vivekbhat0120&style=for-the-badge&color=blue" /> <img src="https://img.shields.io/badge/Profile%20Completed-100%25-green?style=for-the-badge" align="right"/> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekbhat0120&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Profile%20Completed-100%25-green?style=for-the-badge" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Vivek Bhat</h1>
 <h3 align="center">A Passionate Web & Frontend Developer from India</h3>
@@ -45,11 +49,12 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Coder GIF">
 </p>
 
+<!--
 <h2 align="center">Languages and Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,vite,scss,nodejs,postgres,git,github,vscode,netlify" />
 </p>
+-->
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Frontend</h3>
