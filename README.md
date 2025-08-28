@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/300+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/320+-Commits%20this%20year-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/20+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
@@ -43,7 +43,7 @@
 <!-- Special Trophy Case -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=6&cache_bust=20250828" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120" />
   </a>
 </p>
 
@@ -139,4 +139,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 26-08-2025</p>
+<p align="right">Last Updated: 28-08-2025</p>
