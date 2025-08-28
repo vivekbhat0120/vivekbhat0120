@@ -42,8 +42,9 @@
 
 <!-- Special Trophy Case -->
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=6&cache_seconds=86400" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=6&cache_bust=20250828" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <!-- Fun Animation -->
