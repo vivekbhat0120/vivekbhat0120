@@ -26,7 +26,8 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+
   </a>
 </p>
 
@@ -41,7 +42,8 @@
 
 <!-- Special Trophy Case -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=6" alt="Trophies" />
+ <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onestar&margin-w=10&margin-h=10&no-frame=true&row=1&column=6&cache_seconds=86400" />
+
 </p>
 
 <!-- Fun Animation -->
