@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/320+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/400+-Commits%20this%20year-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/20+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
