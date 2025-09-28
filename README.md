@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/400+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/500+-Commits%20this%20year-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/20+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
@@ -109,15 +109,24 @@
 <img src="https://img.shields.io/badge/Teamwork-9C27B0?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
-<h2 align="center">Current Projects</h2>
-<p align="center">
-📱 Building a fully responsive YouTube-based video app with authentication & filters
+<h2 align="center">🚀 Current Projects</h2>
+
+<div align="center">
+
+📱 **[YouTube-based Video App](https://spbott.netlify.app/)** – Fully responsive app built with HTML, CSS, and JavaScript  
 <br/>
-🛍️ Working on fully functional Ecommerce website with ERP & CRM
+
+🛍️ **[E-commerce Website](https://aricaa.netlify.app/)** – Fully functional shopping platform with product management and cart features  
 <br/>
-📰 Building a E-paper daily news paper web page
+
+📰 **E-paper Daily News Website** – Online newspaper with PDF uploads, responsive layout, and social sharing  
 <br/>
-🗃️ Responsive and Attractive Portfolio </p>
+
+🗃️ **Responsive Portfolio** – Modern and attractive personal portfolio website  
+<br/>
+<br/>
+
+</div>
 
 <h2 align="center">Connect with Me</h2>
 
@@ -139,4 +148,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 28-08-2025</p>
+<p align="right">Last Updated: 28-09-2025</p>
