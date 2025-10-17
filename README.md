@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/500+-Commits%20this%20year-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/20+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/560+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/22+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
 </p> 
@@ -119,10 +119,10 @@
 🛍️ **[E-commerce Website](https://aricaa.netlify.app/)** – Fully functional shopping platform with product management and cart features  
 <br/>
 
-📰 **E-paper Daily News Website** – Online newspaper with PDF uploads, responsive layout, and social sharing  
+🈺 **[BizIn](https://shootify.netlify.app/)** – best all-in-one business management platform for event, service, quotation, billing and more
 <br/>
 
-🗃️ **Responsive Portfolio** – Modern and attractive personal portfolio website  
+🥗 **[DK Catering](https://dkcatering.netlify.app/)** – Fully functional catering platform with modern and minimalistic design  
 <br/>
 <br/>
 
@@ -148,4 +148,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 28-09-2025</p>
+<p align="right">Last Updated: 17-10-2025</p>
