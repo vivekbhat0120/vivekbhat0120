@@ -113,18 +113,15 @@
 
 <div align="center">
 
-📱 **[YouTube-based Video App](https://spbott.netlify.app/)** – Fully responsive app built with HTML, CSS, and JavaScript  
-<br/>
-
-🛍️ **[E-commerce Website](https://aricaa.netlify.app/)** – Fully functional shopping platform with product management and cart features  
-<br/>
-
 🈺 **[BizIn](https://shootify.netlify.app/)** – best all-in-one business management platform for event, service, quotation, billing and more
 <br/>
 
-🥗 **[DK Catering](https://dkcatering.netlify.app/)** – Fully functional catering platform with modern and minimalistic design  
+🥗 **[DK Catering](https://dkcatering.netlify.app/)** – Fully functional catering platform with modern and minimalistic design 
 <br/>
-<br/>
+
+🛍️ **[E-commerce Website](https://aricaa.netlify.app/)** – Fully functional shopping platform with product management and cart features  
+
+📱 **[YouTube-based Video App](https://spbott.netlify.app/)** – Fully responsive app built with HTML, CSS, and JavaScript  
 
 </div>
 
