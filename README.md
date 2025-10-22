@@ -121,7 +121,7 @@
 
 🛍️ **[E-commerce Website](https://aricaa.netlify.app/)** – Fully functional shopping platform with product management and cart features  
 
-📱 **[YouTube-based Video App](https://spbott.netlify.app/)** – Fully responsive app built with HTML, CSS, and JavaScript  
+📸 **[PHClicks](https://phclicks.netlify.app/)** – A responsive web platform for viewing and interacting with curated photography collections. 
 
 </div>
 
