@@ -113,7 +113,7 @@
 
 <div align="center">
 
-🈺 **[BizIn](https://shootify.netlify.app/)** – best all-in-one business management platform for event, service, quotation, billing and more
+🈺 **[SPB OTT](https://spbott.netlify.app/)** – SPB OTT: Stream exclusive content from the SPB YouTube channel
 <br/>
 
 🥗 **[DK Catering](https://dkcatering.netlify.app/)** – Fully functional catering platform with modern and minimalistic design 
@@ -145,4 +145,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 30-10-2025</p>
+<p align="right">Last Updated: 23-01-2026</p>
