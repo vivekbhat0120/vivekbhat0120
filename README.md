@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/600+-Commits%20this%20year-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/22+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/650+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/28+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
 </p> 
@@ -35,29 +35,18 @@
 
 <h2 align="center">My Achievement Wall</h2>
 
-<!-- Animated Gradient Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Achievements%20Unlocked!&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
-<!-- Special Trophy Case -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120" />
-  </a>
+ <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onedark&row=2&column=4&no-bg=true" />
 </p>
 
-<!-- Fun Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="Coder GIF">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
 </p>
 
-<!--
-<h2 align="center">Languages and Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,vite,scss,nodejs,postgres,git,github,vscode,netlify" />
-</p>
--->
 
 <h2 align="center">Skills</h2>
 <h3 align="center">Frontend</h3>
@@ -145,4 +134,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 23-01-2026</p>
+<p align="right">Last Updated: 31-01-2026</p>
