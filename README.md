@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/700+-Commits%20this%20year-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/28+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/800+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/30+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
 </p> 
@@ -105,12 +105,12 @@
 🌐 **[MIVENT](http://15.206.187.116)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
 <br/>
 
-🥗 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
+📻 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
 <br/>
 
 🛍️ **[Arica](https://aricaa.netlify.app/)** – Basic functional shopping platform with product management and cart features  
 
-🈺 **[SPB OTT](https://spbott.netlify.app/)** – SPB OTT: Stream exclusive content from the SPB YouTube channel
+📺 **[SPB OTT](https://spbott.netlify.app/)** – SPB OTT: Stream exclusive content from the SPB YouTube channel
 
 </div>
 
@@ -134,4 +134,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 21-02-2026</p>
+<p align="right">Last Updated: 06-04-2026</p>
