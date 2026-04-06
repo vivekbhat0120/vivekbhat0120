@@ -102,15 +102,15 @@
 
 <div align="center">
 
+🌐 **[MIVENT](http://15.206.187.116)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
+<br/>
+
+🥗 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
+<br/>
+
+🛍️ **[Arica](https://aricaa.netlify.app/)** – Basic functional shopping platform with product management and cart features  
+
 🈺 **[SPB OTT](https://spbott.netlify.app/)** – SPB OTT: Stream exclusive content from the SPB YouTube channel
-<br/>
-
-🥗 **[DK Catering](https://dkcatering.netlify.app/)** – Fully functional catering platform with modern and minimalistic design 
-<br/>
-
-🛍️ **[E-commerce Website](https://aricaa.netlify.app/)** – Fully functional shopping platform with product management and cart features  
-
-📸 **[PHClicks](https://phclicks.netlify.app/)** – A responsive web platform for viewing and interacting with curated photography collections. 
 
 </div>
 
