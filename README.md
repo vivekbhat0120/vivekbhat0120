@@ -102,7 +102,7 @@
 
 <div align="center">
 
-🌐 **[MIVENT](http://15.206.187.116)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
+🌐 **[MIVENT](http://52.66.128.41/login)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
 <br/>
 
 📻 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
@@ -134,4 +134,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 12-04-2026</p>
+<p align="right">Last Updated: 18-04-2026</p>
