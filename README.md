@@ -108,7 +108,7 @@
 📻 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
 <br/>
 
-🛍️ **[Arica](https://aricaa.netlify.app/)** – Basic functional shopping platform with product management and cart features  
+🛍️ **[Bakula](https://bakula.onrender.com/)** – Basic functional shopping platform with product management and cart features  
 
 📺 **[SPB OTT](https://spbott.netlify.app/)** – SPB OTT: Stream exclusive content from the SPB YouTube channel
 
@@ -134,4 +134,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 18-04-2026</p>
+<p align="right">Last Updated: 21-04-2026</p>
