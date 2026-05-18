@@ -102,7 +102,7 @@
 
 <div align="center">
 
-🌐 **[MIVENT](http://52.66.128.41/login)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
+🌐 **[MIVENT](https://miventsite.com)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
 <br/>
 
 📻 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
