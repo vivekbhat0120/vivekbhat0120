@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://streak-stats.demolab.com/?user=vivekbhat0120&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
   </a>
 </p>
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=vivekbhat0120&theme=onedark&row=2&column=4&no-bg=true" />
+ <img src="https://github-trophies.vercel.app/?username=vivekbhat0120&theme=onedark&row=2&column=4&no-bg=true" />
 </p>
 
 <p align="center">
