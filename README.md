@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhat0120&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhat0120&theme=tokyo-night&hide_border=true&radius=16" />
 </p>
 
 <p align="center">
@@ -26,8 +26,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=vivekbhat0120&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
+    <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=tokyonight&hide_border=true&cache_seconds=1" />
   </a>
 </p>
 
@@ -41,10 +40,6 @@
 
 <p align="center">
  <img src="https://github-trophies.vercel.app/?username=vivekbhat0120&theme=onedark&row=2&column=4&no-bg=true" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
 </p>
 
 
