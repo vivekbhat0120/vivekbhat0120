@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/1150+-Commits%20this%20year-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/30+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/1200+-Commits%20this%20year-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/35+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/4-Active%20projects%20currently%20building-blue?style=flat-square" />
 </p> 
@@ -129,4 +129,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 06-07-2026</p>
+<p align="right">Last Updated: 26-07-2026</p>
