@@ -26,7 +26,10 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vivekbhat0120&theme=tokyonight&hide_border=true&cache_seconds=1" />
+    <img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=vivekbhat0120&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
   </a>
 </p>
 
