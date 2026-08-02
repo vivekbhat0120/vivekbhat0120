@@ -103,13 +103,6 @@
 🌐 **[MIVENT](https://miventsite.com)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
 <br/>
 
-📻 **[Sumukha TV](https://sumukhatv.onrender.com/)** – Fully functional Read latest news updates with accurate and reliable information. 
-<br/>
-
-🛍️ **[Bakula](https://bakula.onrender.com/)** – Basic functional shopping platform with product management and cart features  
-
-📺 **[SPB OTT](https://spbott.netlify.app/)** – SPB OTT: Stream exclusive content from the SPB YouTube channel
-
 </div>
 
 <h2 align="center">Connect with Me</h2>
@@ -132,4 +125,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 28-07-2026</p>
+<p align="right">Last Updated: 02-08-2026</p>
