@@ -101,8 +101,11 @@
 <div align="center">
 
 🌐 **[MIVENT](https://miventsite.com)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
+<br/>
 🛍️ **[BAKULA](https://bakulahome.in)** — An e-commerce platform for discovering and purchasing authentic homemade products from local creators.
+<br/>
 📸 **[PHClick](https://phclicks.netlify.app/)** — A professional photography portfolio showcasing creative work, visual stories, and memorable moments.
+<br/>
 🪴 **[Agraz](https://agrazllp.com/)** - A smart agriculture ERP platform that streamlines farm operations, resources, and business management.
 
 </div>
