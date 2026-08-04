@@ -101,7 +101,9 @@
 <div align="center">
 
 🌐 **[MIVENT](https://miventsite.com)** – A responsive web platform for Manage events, teams, services,quotation and billing in one platform.
-<br/>
+🛍️ **[BAKULA](https://bakulahome.in)** — An e-commerce platform for discovering and purchasing authentic homemade products from local creators.
+📸 **[PHClick](https://phclicks.netlify.app/)** — A professional photography portfolio showcasing creative work, visual stories, and memorable moments.
+🪴 **[Agraz](https://agrazllp.com/)** - A smart agriculture ERP platform that streamlines farm operations, resources, and business management.
 
 </div>
 
@@ -125,4 +127,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 02-08-2026</p>
+<p align="right">Last Updated: 04-08-2026</p>
