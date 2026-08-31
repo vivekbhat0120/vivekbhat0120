@@ -130,4 +130,4 @@ I believe hands-on learning > theoretical knowledge
   <br/>
 I build websites and fix circuits  </p>
 
-<p align="right">Last Updated: 25-08-2026</p>
+<p align="right">Last Updated: 31-08-2026</p>
