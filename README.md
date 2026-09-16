@@ -12,10 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekbhat0120&theme=tokyo-night&hide_border=true&radius=16" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/1200+-Commits%20this%20year-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/35+-Repositories%20(Public%20+%20Private)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Multiple-Open%20Source%20projects%20contributed-blue?style=flat-square" />
